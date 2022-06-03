@@ -1,10 +1,10 @@
 import Layout from '../src/components/Layout/Layout'
-import BurgerIngredients from "./components/Burger/BurgerIngredients/BurgerIngredients";
+import Burger from "./components/Burger/Burger";
 function App() {
   return (
     <div>
       <Layout>
-        <BurgerIngredients type='bread-top' />
+        <Burger />
       </Layout>
     </div>
   );
