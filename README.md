@@ -2,7 +2,12 @@
 
 This project was created by Ali Maihoob
 
+first:
+### `npm install`
 
+To install Node Modules packages
+
+second:
 ### `npm start`
 
 Runs the app in the development mode.\
