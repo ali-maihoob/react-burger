@@ -4,7 +4,6 @@
     <list default="true" id="447cfc34-50cf-443a-a2de-f706aca87cbc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl/BuildControl.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl/BuildControl.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" afterDir="false" />
     </list>
@@ -71,6 +70,7 @@
       <workItem from="1654492547690" duration="2155000" />
       <workItem from="1654494734680" duration="13000" />
       <workItem from="1654494758015" duration="6180000" />
+      <workItem from="1654579736080" duration="776000" />
     </task>
     <servers />
   </component>
@@ -88,17 +88,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.js</url>
-          <line>8</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
